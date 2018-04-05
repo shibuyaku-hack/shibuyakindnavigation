@@ -1,8 +1,0 @@
-c:\users\yamashita\documents\visual studio 2017\Projects\stationplan\stationplan.web\bin\Release\netcoreapp1.1\stationplan.web.deps.json
-c:\users\yamashita\documents\visual studio 2017\Projects\stationplan\stationplan.web\bin\Release\netcoreapp1.1\stationplan.web.runtimeconfig.json
-c:\users\yamashita\documents\visual studio 2017\Projects\stationplan\stationplan.web\bin\Release\netcoreapp1.1\stationplan.web.runtimeconfig.dev.json
-c:\users\yamashita\documents\visual studio 2017\Projects\stationplan\stationplan.web\bin\Release\netcoreapp1.1\stationplan.web.dll
-c:\users\yamashita\documents\visual studio 2017\Projects\stationplan\stationplan.web\bin\Release\netcoreapp1.1\stationplan.web.pdb
-c:\users\yamashita\documents\visual studio 2017\Projects\stationplan\stationplan.web\obj\Release\netcoreapp1.1\stationplan.web.AssemblyInfo.cs
-c:\users\yamashita\documents\visual studio 2017\Projects\stationplan\stationplan.web\obj\Release\netcoreapp1.1\stationplan.web.dll
-c:\users\yamashita\documents\visual studio 2017\Projects\stationplan\stationplan.web\obj\Release\netcoreapp1.1\stationplan.web.pdb
